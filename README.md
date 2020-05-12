@@ -38,7 +38,7 @@ These is the main page:
 
 
 # Authors:
-Ayyagari ET AL...
+Srinidhi Ayyagari
 
 # Acknowledgement:
 Would like to thank all the resources on Youtube and Stack Overflow always! :)
